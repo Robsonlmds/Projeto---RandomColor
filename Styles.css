@@ -47,13 +47,13 @@ body {
         display: flex;
         justify-content: center;
         text-align: center;
-        font-size: 5rem;
+        font-size: 3rem;
         color: rgb(255, 255, 255);
         font-family: "Roboto Condensed", sans-serif;
     }
     
     t2 {
-        padding-top: 1.5rem;
+        padding-top: 0.75rem;
         display: flex;
         justify-content: center;
         font-size: 2rem;
